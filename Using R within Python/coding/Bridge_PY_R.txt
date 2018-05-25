@@ -1,0 +1,10 @@
+// Download Library
+RServe package for R
+pyRserve Library for python
+
+// Creating Bridge b/w Python and R 
+run r_serve.r in R Studio
+
+this will open port (localhost:6311) for any language  to use all the libraries of R-Language
+
+now run rpybridge.py from pycharm or command prompt.
